@@ -1,7 +1,7 @@
 ### Antonio Henrique S. Z.
 antonio.zampieri@escola.pr.gov.br
 
-
+_____________________________________________________________________________________________________________________________________________________________
 -Aluno da escola: CCEM Helena Viana Sundin
 
 -Ensino Médio: 1°C (Manhã)
@@ -15,7 +15,7 @@ antonio.zampieri@escola.pr.gov.br
 -Faço 2 cursos: Inglês e Informática
 
 -Estou estudando no Alura e HTML
-
+_____________________________________________________________________________________________________________________________________________________________
 ![e0ed0b78-6039-4317-be68-252543d1e418](https://github.com/AntonioAdrianoSZ/AntonioAdrianoSZ/assets/144065515/646e4059-6a8c-4d3e-bd17-181d6a9ffc7b)
 
 
