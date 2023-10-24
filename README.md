@@ -16,5 +16,6 @@ antonio.zampieri@escola.pr.gov.br
 
 -Estou estudando no Alura e HTML
 
+![e0ed0b78-6039-4317-be68-252543d1e418](https://github.com/AntonioAdrianoSZ/AntonioAdrianoSZ/assets/144065515/646e4059-6a8c-4d3e-bd17-181d6a9ffc7b)
 
-![Uploading e0ed0b78-6039-4317-be68-252543d1e418.gif…]()jpg
+
