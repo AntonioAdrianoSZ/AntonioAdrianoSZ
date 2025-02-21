@@ -5,7 +5,7 @@ antonio.zampieri@escola.pr.gov.br
 _____________________________________________________________________________________________________________________________________________________________
 -Aluno da escola: CCEM Helena Viana Sundin
 
--Ensino Médio: 2°C (Manhã)
+-Ensino Médio: 3°C (Manhã)
 
 -15 anos de idade
 
